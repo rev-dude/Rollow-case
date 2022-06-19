@@ -7,7 +7,7 @@ https://github.com/barbellboards
 
 These files are intended to be 3d printable cases for the rollow split ergo keyboard with various tenting angles and boarders.
 
-Made with Grasshopper it Rhino 3D, this script can control:
+Made with Grasshopper in Rhino 3D, this script can control:
 
 - Bezel thickness
 - Keyboard height
