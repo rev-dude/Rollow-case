@@ -1,5 +1,7 @@
 # Rollow-case
-Parametric cases for the rollow low profile ergo keyboard by https://github.com/barbellboards
+Parametric cases for the rollow low profile ergo keyboard by Barbell Boards 
+
+https://github.com/barbellboards
 
 ![Rollow case](https://user-images.githubusercontent.com/99558492/174490187-ad3c3cdd-eafa-4a2f-80c0-672ad0e7924d.gif)
 
