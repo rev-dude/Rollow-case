@@ -19,10 +19,8 @@ Made with Grasshopper it Rhino 3D, this script can control:
 - Tenting angles up to 35 degrees
 
 **A complete case consists of 4 files: A left and right switch plate as well as a left and right bottom case. Any switch plate should be compatible with any case.**
-**The internal standoff holes are designed for use with 4mm m2 heat set threaded inserts.** You will need 10 and can find them on McMaster-Carr here, one pack is enough:
-Brass: https://www.mcmaster.com/94459A120/
-Aluminum: https://www.mcmaster.com/94459A418/
-Stainless steel: https://www.mcmaster.com/94459A432/
+
+**The internal standoff holes are designed for use with 4mm m2 heat set threaded inserts.** You will need 10 and can find them on McMaster-Carr here, one pack is enough: (Brass: https://www.mcmaster.com/94459A120/ Aluminum: https://www.mcmaster.com/94459A418/ Stainless steel: https://www.mcmaster.com/94459A432/ )
 
 
 Note/Disclaimer: I've never actually designed anything to be 3d printed before, so I can't guarantee it'll print perfectly or have correct tolerances. If you try it and notice issues, please contact me and I can fix it. The best way is on discord via the low profile keyboards server. https://discord.gg/69UM9sQF8q
