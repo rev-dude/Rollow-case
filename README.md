@@ -2,7 +2,7 @@
 Parametric cases for the rollow low profile ergo keyboard
 
 ![Rollow case](https://user-images.githubusercontent.com/99558492/174490187-ad3c3cdd-eafa-4a2f-80c0-672ad0e7924d.gif)
->*Note, this gif is from an older version of the generator, updated case stls have cutouts for usb and TRRS ports.
+>*Note, this gif is from an older version of the generator, updated case stls have cutouts for usb and TRRS ports.*
 
 These files are intended to be 3d printable cases for the rollow split ergo keyboard with various tenting angles and boarders.
 
